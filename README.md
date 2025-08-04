@@ -1,4 +1,13 @@
-# React + Vite
+# Car-stats-table
+
+This Project demonstrates the destructuring needed to display the model, top speed, and top colour for each car in a table or UI.
+
+ # JavaScript ES6 Destructuring
+
+- Demonstrated how to destructure arrays and objects in JavaScript ES6 to extract nested properties.
+- Showed renaming of destructured variables for clarity and avoiding naming conflicts.
+- Illustrated accessing nested arrays and objects within complex data structures.
+- Emphasized the practical use of destructuring for handling API-like data structures efficiently.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
